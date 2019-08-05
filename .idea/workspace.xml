@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/verifyRevenues2019_08_04_08_22_47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/verifyRevenues2019_08_04_08_30_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082212.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082611.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082923.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082951.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/OpportunityPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/OpportunityPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/PipelineRevenuePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/PipelineRevenuePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/OpportunityPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/OpportunityPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/PipelineRevenuePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/PipelineRevenuePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
-    </list>
+    <list default="true" id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
