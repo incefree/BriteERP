@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="" />
+    <list default="true" id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/verifyRevenues2019_08_04_08_22_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/verifyRevenues2019_08_04_08_30_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082212.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082611.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082923.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/reports/report_20190804_082951.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/OpportunityPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/OpportunityPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/PipelineRevenuePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/components/components/pages/crm/PipelineRevenuePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/OpportunityPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/OpportunityPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/PipelineRevenuePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/components/pages/crm/PipelineRevenuePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/components/expenses/TestCaseID_MA8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +45,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1Oswa6n8sh8Ab989I8hm9Ifsd64" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -50,25 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCaseID_MA8.deleteExpensesDoc">
-    <configuration name="CRMTest.CRMModuleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriterpAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.components.crm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.components.crm" />
-      <option name="MAIN_CLASS_NAME" value="tests.components.crm.CRMTest" />
-      <option name="METHOD_NAME" value="CRMModuleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestCaseID_MA8.createExpensesDoc">
     <configuration name="PipelineRevenueTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriterpAutomation" />
       <extension name="coverage">
@@ -86,17 +86,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCaseID_MA12.CreateExpensesDoc" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PipelineRevenueTest.PreConditionCreateOpportunity" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriterpAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.components.expenses.*" />
+          <option name="PATTERN" value="tests.components.crm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.components.expenses" />
-      <option name="MAIN_CLASS_NAME" value="tests.components.expenses.TestCaseID_MA12" />
-      <option name="METHOD_NAME" value="CreateExpensesDoc" />
+      <option name="PACKAGE_NAME" value="tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.crm.PipelineRevenueTest" />
+      <option name="METHOD_NAME" value="PreConditionCreateOpportunity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipelineRevenueTest.verifyRevenues" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.crm.PipelineRevenueTest" />
+      <option name="METHOD_NAME" value="verifyRevenues" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipelineRevenueTest.verifySumOfRevenuesEqual" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.crm.PipelineRevenueTest" />
+      <option name="METHOD_NAME" value="verifySumOfRevenuesEqual" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -122,30 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCaseID_MA8.deleteExpensesDoc" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriterpAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.components.expenses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.components.expenses" />
-      <option name="MAIN_CLASS_NAME" value="tests.components.expenses.TestCaseID_MA8" />
-      <option name="METHOD_NAME" value="deleteExpensesDoc" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCaseID_MA8.deleteExpensesDoc" />
-        <item itemvalue="TestNG.TestCaseID_MA12.CreateExpensesDoc" />
         <item itemvalue="TestNG.TestCaseID_MA8.createExpensesDoc" />
-        <item itemvalue="TestNG.CRMTest.CRMModuleTest" />
+        <item itemvalue="TestNG.PipelineRevenueTest.verifyRevenues" />
+        <item itemvalue="TestNG.PipelineRevenueTest.verifySumOfRevenuesEqual" />
+        <item itemvalue="TestNG.PipelineRevenueTest.PreConditionCreateOpportunity" />
         <item itemvalue="TestNG.PipelineRevenueTest" />
       </list>
     </recent_temporary>
@@ -168,11 +186,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="masterDetails">
     <states>

@@ -8,7 +8,6 @@ import utilities.ConfigurationReader;
 import utilities.Driver;
 import utilities.SeleniumUtils;
 
-import java.time.Duration;
 import java.util.Random;
 
 public class OpportunityPage {
