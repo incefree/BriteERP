@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Oswa6n8sh8Ab989I8hm9Ifsd64" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCaseID_MA8.deleteExpensesDoc">
+    <configuration name="CRMTest.CRMModuleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.crm.CRMTest" />
+      <option name="METHOD_NAME" value="CRMModuleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipelineRevenueTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.crm.PipelineRevenueTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseID_MA12.CreateExpensesDoc" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.expenses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.expenses" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.expenses.TestCaseID_MA12" />
+      <option name="METHOD_NAME" value="CreateExpensesDoc" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseID_MA8.createExpensesDoc" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.expenses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.expenses" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.expenses.TestCaseID_MA8" />
+      <option name="METHOD_NAME" value="createExpensesDoc" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseID_MA8.deleteExpensesDoc" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriterpAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.components.expenses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.components.expenses" />
+      <option name="MAIN_CLASS_NAME" value="tests.components.expenses.TestCaseID_MA8" />
+      <option name="METHOD_NAME" value="deleteExpensesDoc" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCaseID_MA8.deleteExpensesDoc" />
+        <item itemvalue="TestNG.TestCaseID_MA12.CreateExpensesDoc" />
+        <item itemvalue="TestNG.TestCaseID_MA8.createExpensesDoc" />
+        <item itemvalue="TestNG.CRMTest.CRMModuleTest" />
+        <item itemvalue="TestNG.PipelineRevenueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6253f4a4-8f59-44d8-839d-77608daebc50" name="Default Changelist" comment="" />
+      <created>1563481437757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563481437757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BriterpAutomation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
